@@ -1,0 +1,53 @@
+.menu{
+    background:linear-gradient(rgba(0, 0, 0, 0.683),rgba(0, 0, 0, 0.683)), url(../images/food14.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.menu-image img {
+    max-width: 10rem;
+    height: 10rem;
+}
+.menu-image p {
+    max-width: 10rem;
+    font-size: .7rem;
+}
+/* special menu styling from here */
+.special-menu-pic img {
+    height: 11rem;
+    width: 10rem;
+}
+
+.reservation-area {
+    grid-template-columns: 1fr;
+    justify-content: center;
+}
+.divider-line {
+    height: .2rem;
+    width: 35rem;
+    margin: 3rem 0;
+}
+/* contact area styling */
+.contact-mid-tag-line p {
+    width: 25rem;
+}
+
+/* location outlet styling here */
+.location-outlet {
+    display: grid;
+    padding: 0 2rem;
+    grid-template-columns: .4fr .1fr .4fr .1fr .4fr;
+}
+
+.max-width-768-style{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 111;
+}
+/* blog area styling */
+.blog-mid-tag-line h2 {
+    font-size: 1.2rem;
+}
+.blog-mid-tag-line p {
+    font-size: 1.1rem;
+}
