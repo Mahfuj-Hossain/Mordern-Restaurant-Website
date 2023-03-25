@@ -56,14 +56,14 @@
     height: 70%;
   }
   .header-tag-line h2{
-    font-family: montez;
+    font-family:  montez, cursive, glory, sans-serif;
     color: white;
     font-size: 2rem;
    text-transform: uppercase;
    word-spacing: .4rem;
    letter-spacing: .2rem;
    border-bottom: 0.4rem solid goldenrod;
-   border-radius: 1.2rem;
+   border-radius: .4rem;
    padding-bottom: 1rem;
   }
   /*---------------------------------------------------------
@@ -415,7 +415,7 @@
      color: white;
      font-size: 3rem;
      padding: 1rem 3rem;
-     font-family: cursive;
+     font-family: montez, cursive, sans-serif;
      text-transform: uppercase;
      font-weight: bolder;
      border-bottom: .7rem solid rgba(224, 162, 6, 0.876);
