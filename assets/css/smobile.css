@@ -173,6 +173,7 @@ form select, form input {
     font-size: 1.1rem;
     width: fit-content;
     margin-top: .5rem;
+    border-radius: .4rem;
 }
 
 .contact-display-area {
