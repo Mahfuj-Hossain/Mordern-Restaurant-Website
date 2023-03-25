@@ -20,6 +20,7 @@ nav ul li {
 .header-tag-line h2 {
     font-size: .8rem;
     line-height: 1.6rem;
+    width: 12rem;
 }
 
 .menu-banner {
@@ -80,6 +81,15 @@ nav ul li {
 }
 
 /* About Area styling */
+
+.about-mid-tag-line h2 {
+    font-size: 1rem;
+    border-bottom: 0.33rem solid rgba(224, 162, 6, 0.876);
+    border-radius: .3rem;
+    margin-bottom: 4rem;
+    padding-bottom: .5rem;
+}
+
 .left_pic_about_us {
     height: 8rem;
     width: 60%;
@@ -118,6 +128,10 @@ nav ul li {
     text-align: center;
     line-height: 1rem;
     margin: 0;
+    width: 13rem;
+    padding: .5rem 0;
+    border-bottom: 0.33rem solid rgba(224, 162, 6, 0.876);
+    border-radius: .3rem;
 }
 .contactfrom-heading h2 {
     font-size: 1.7rem;
@@ -163,7 +177,7 @@ nav ul li {
 
 /* Blog Area Styling */
 .blog-mid-tag-line {
-    height: 100vh;
+    height: auto;
 }
 .blog-mid-tag-line h2 {
     font-size: 1rem;
@@ -172,6 +186,8 @@ nav ul li {
     font-size: 1.1rem;
     padding-bottom: .8rem;
     width: 13rem;
+    border-bottom: 0.33rem solid rgba(224, 162, 6, 0.876);
+    border-radius: .3rem;
     margin: 0;
 }
 .blog-mid-tag-line h2 {
